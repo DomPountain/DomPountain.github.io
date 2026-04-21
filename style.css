@@ -74,14 +74,14 @@ body {
 }
 
 .navbardiv{
-    font-family: NuCaloric;
+    font-family: NuCal;
     display:flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .logo{
-    font-family: NuCaloric; 
+    font-family: NuCal; 
     font-size: 50px;
     font-weight: 600;
     color: white;
